@@ -12,12 +12,6 @@ Additional description about the project and its features.
 - CSS
 - Bootstrap
 
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -26,39 +20,19 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: prernapriyali@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: prernapriyali@githubhandle](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
