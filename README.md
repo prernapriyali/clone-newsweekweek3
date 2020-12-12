@@ -11,8 +11,9 @@
 - CSS
 - Bootstrap
 
-and running follow these simple example steps.
+## Live Demo
 
+[Live Demo Link](https://prernapriyali.github.io/clone-newsweekweek3/)
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
