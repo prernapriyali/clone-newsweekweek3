@@ -3,15 +3,17 @@
 # Project Name NEWSWEEK CLONE
 
 > A clone of NewsWeeks home page.The webside is build using modern css and bootstrap.The website is fully responsive.
-![](newsweek image.png)
+![images/screenshot.png](newsweek image.png)
 
-Additional description about the project and its features.
 
 ## Built With
--html
+- html
 - CSS
 - Bootstrap
 
+## Live Demo.
+
+[Live Demo Link](https://prernapriyali.github.io/clone-newsweekweek3/)
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -20,10 +22,23 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: prernapriyali@githubhandle](https://github.com/prernapriyali)
 - Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
