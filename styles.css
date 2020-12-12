@@ -1,17 +1,17 @@
-/* ##############
+/* 
    imports
-   ############## */
+   */
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
-/* ##############
+/* 
    variables
-   ############## */
+  # */
 
 /* Here we declare variables in the scss files */
 
-/* ##############
+/* 
    Initialising
-   ############## */
+    */
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -24,9 +24,9 @@ article {
   margin-bottom: 30px;
 }
 
-/* ##############
+/* 
    Positioning
-   ############## */
+    */
 .container-xl {
   max-width: 1310px;
 }
