@@ -3,7 +3,7 @@
 # Project Name NEWSWEEK CLONE
 
 > A clone of NewsWeeks home page.The webside is build using modern css and bootstrap.The website is fully responsive.
-![images/screenshot.png](newsweek image.png)
+![images/screenshot.png](./images/screenshot.png)
 
 
 ## Built With
