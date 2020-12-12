@@ -11,7 +11,7 @@
 - CSS
 - Bootstrap
 
-## Live Demo
+## Live Demo.
 
 [Live Demo Link](https://prernapriyali.github.io/clone-newsweekweek3/)
 ## Getting Started
