@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: prernapriyali@githubhandle](https://github.com/prernapriyali)
 - Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
